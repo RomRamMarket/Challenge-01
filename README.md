@@ -6,6 +6,25 @@
 <h2> Construcción de paredes
   </h2>
 
+<p>Utilizamos <code>Cube 3D Objects</code> y le aplicamos traslaciones, escalamientos y rotaciones.</p>
+<p>Parte frontal izquierda</p>
+<image
+  src="LeftFront.png"
+  width = 350px
+  height = 250px>
+
+<p>Parte frontal derecha</p>
+<image
+  src="RightFront.png"
+  width = 350px
+  height = 250px>
+
+<p>Parte frontal con marco para la puerta de entrada</p>
+<image
+  src="FrameFront.png"
+  width = 350px
+  height = 250px>
+
 <p> Pared de la izquierda</p>
 <image
   src="LeftWall.png"
