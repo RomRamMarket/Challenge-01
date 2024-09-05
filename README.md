@@ -69,7 +69,7 @@ height = 90%>
 
   <p> Luego seleccionando nuestro cubo antes creado fuimos "tanteando" con la funcion <code> Scale</code> situada a la derecha de nuestra pantalla hasta que el cubo tenía una forma adecuada para ser el techo de una casa como esperabamos construirla.</p>
 
-    <image
+  <image
   src="RoofScale.png"
   width = 90%
   height = 90%>
@@ -80,7 +80,7 @@ height = 90%>
 <p> Luego seleccionamos el "Trasformation Tool" en el centro de la escena para poder manipular la rotación de nuestra techo y hacer que se parezca aún más a un techo en cuestión de su inclinación.</p>
 
 
-    <image
+   <image
   src="RotationRoof.png"
   width = 90%
   height = 90%>
@@ -90,7 +90,7 @@ height = 90%>
 
  <p> - Una vez satisfechos con el tamaño y la inclinación de nuestro techo vamos a crear la otra parte del techo haciendo clic con el botón derecho del ratón sobre nuestro Cubo creado y pulsando Duplicar o "Duplicate". Esto hace que nuestros parámetros se copien inmediatamente a este siguiente cubo.</p>
 
-     <image
+  <image
   src="duplicate.png"
   width = 90%
   height = 90%>
@@ -99,7 +99,7 @@ height = 90%>
 
 <p> Ajustando los parametros de posición y rotación encontrados en la parte superior derecha podemos llegar a que ambas partes del techo se conecten a la perfección como se muestra en la siguiente imagen. Una vez ambas partes estén alineadas, el trabajo está terminado.</p>
 
-   <image
+  <image
   src="FinalRoof.png"
   width = 90%
   height = 90%>
@@ -107,7 +107,7 @@ height = 90%>
 
 <h3>Trabajo final</h3>
 
-   <image
+  <image
   src="FinalHome.png"
   width = 90%
   height = 90%>
