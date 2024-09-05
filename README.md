@@ -1,7 +1,8 @@
 # Challenge-01
 
 
-<p> ESTE ES EL PARRAFO DONDE DECIMOS COSAS QUE NOS GUSTARON Y QUE NOS PARECIERON INTERESANTES</p>
+<p> Una de las ventajas de esta actividad es que aunque es relativamente simple, te brinda la oportunidad de equivocarte y es un buen reto para comenzar a coordinar la comunicación entre todos los miembros del equipo.
+Poder tener esa estructura en el orden en que se deben hacer las cosas para facilitar el resultado final y también que cada miembro del grupo pueda tener un rol importante en la creación del proyecto.</p>
 
 <h2> Construcción de paredes
   </h2>
@@ -25,7 +26,7 @@
   width = 1000px
   height = 550px>
 
-<h3>Para las paredes tuvimos que alinearlas justo con la parte frontal para que no hubiera ningún espacio de separación</h3>
+<h3>Para las paredes igualmente utilizamos  <code>Cube 3D Objects</code> y le aplicamos traslaciones, escalamientos y rotaciones. Tuvimos que alinearlas justo con la parte frontal para que no hubiera ningún espacio de separación y se forme la figura deseada</h3>
 <p> Pared de la izquierda</p>
 <image
   src="LeftWall.png"
