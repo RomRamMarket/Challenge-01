@@ -1,6 +1,6 @@
 # Reto 01: Creando una casa simple
 
-<p> Una de las ventajas de esta actividad es que, aunque es relativamente simple, te brinda la oportunidad de equivocarte y es un buen reto para comenzar a coordinar la comunicación entre todos los miembros del equipo.
+<p> Una de las ventajas de esta actividad es que, aunque es relativamente simple, te brinda la oportunidad de equivocarte y es un buen reto para comenzar a coordinar la comunicación entre todos los miembros del equipo ?????.
 Poder tener esa estructura en el orden en que se deben hacer las cosas para facilitar el resultado final y también que cada miembro del grupo pueda tener un rol importante en la creación del proyecto. Además, es interesante ver cómo se pueden crear estructuras complejas utilizando figuras más simples. Nos da la curiosidad de ver si pudiésemos crear un videojuego entero utilizando solamente cubos (de hecho, ¡ya se ha logrado!)</p>
 
 <h2> Construcción de paredes
