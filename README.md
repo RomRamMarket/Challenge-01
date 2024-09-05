@@ -10,43 +10,52 @@ Poder tener esa estructura en el orden en que se deben hacer las cosas para faci
 <p>Para la <strong>parte frontal izquierda</strong>, creamos un cubo y escalamos sus tres componentes para que obtuviera la forma de un prisma rectangular. Luego, se realizó una traslación.</p>
 <image
   src="LeftFront.png"
-  width = 1000px
+  width = 90%;
   height = 550px>
 
 <p>La <strong>parte frontal derecha</strong> fue una simple copia del pedazo que ya se había creado. Se duplicó y realizamos una traslación.</p>
 <image
   src="RightFront.png"
-  width = 1000px
+  width = 90%;
   height = 550px>
 
 <p>Para la <strong>parte frontal con marco</strong> para la puerta de entrada, copiamos el pedazo frontal izquierdo y escalamos su componente en Y para que tuviese menos altura. Luego, se trasladó verticalmente para estar alineado con los otros dos muros.</p>
 <image
   src="FrameFront.png"
-  width = 1000px
+  width = 90%;
   height = 550px>
 
-<p>Para las paredes igualmente utilizamos  <code>Cube 3D Objects</code> y le aplicamos traslaciones, escalamientos y rotaciones. Tuvimos que alinearlas justo con la parte frontal para que no hubiera ningún espacio de separación y se forme la figura deseada</p>
-<p> Pared de la izquierda</p>
+  
+<h3> Pared de la izquierda </h3>
+<p>Para las <strong> paredes laterales</strong>  igualmente utilizamos  <code>Cube 3D Objects</code> y le aplicamos traslaciones, escalamientos y rotaciones. Tuvimos que alinearlas justo con la parte frontal para que no hubiera ningún espacio de separación y se forme la figura deseada. Este alineamiento se hizo utilizando las herramientas que aparecen en la parte superior derecha en donde Unity nos permite una vez seleccionado el objeto en cuestión ajustar sus coordenadas.</p>
+
 <image
   src="LeftWall.png"
-  width = 1000px
+  width = 90%;
   height = 550px>
 
 
-<p> Pared de la derecha</p>
+<h3> Pared de la derecha</h3>
+<p>Para el caso de la <Strong> segunda pared lateral (derecha) </Strong> se tomó la iniciativa de copiar y pegar la pared lateral previamente hecha y trasladarla a justo el lado que hacía falta. Para trasladarla se usó la misma idea de ajustar sus coordenadas</p>
+
 
   <image
   src="RightWall.png"
-  width = 1000px
+  width = 90%;
   height = 550px>
 
+<h3> Alargamiento de paredes y construcción de la pared de fondo</h3>
+<p> <Strong>El Alargamiento de paredes y construcción de la pared de fondo </Strong> funcionó en su mayoría de la misma manera pues utilizando las opciones de <code>Scale</code>, que está justo debajo de la herramienta de traslación, entonces se ajustó el tamaño de cada pared para que la casa no fuera plenamente cuadrada sino que en el interior hubiera un espacio rectangula</p>
 
-<h3> Alargamiento de paredes y construcción de la pared de fondo </h3>
+
 
   <image
   src="Walls.png"
-  width = 1000px
+  width = 90%;
   height = 550px>
+
+
+  
 
 
   
