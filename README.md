@@ -1,6 +1,25 @@
 # Reto 01: Creando una casa simple
 
-<p> Una de las ventajas de esta actividad es que, aunque es relativamente simple, te brinda la oportunidad de equivocarte y es un buen reto para comenzar a coordinar la comunicación entre todos los miembros del equipo. Nos permite poder implementar una estructura de trabajo en equipo que nosotros mismos decidimos y ajustamos. Poder tener esa estructura del orden en que se deben hacer las cosas sirve para facilitar el resultado final y también que cada miembro del grupo pueda tener un rol importante en la creación del proyecto. Además, nos pareció interesante ver cómo se pueden crear estructuras complejas utilizando figuras más simples. Nos da la curiosidad de ver si pudiésemos crear un videojuego entero utilizando solamente cubos (de hecho, ¡ya se ha logrado!). El construir algún concepto con cubos es una buena manera de explorar la creatividad y conocer las herramientas que nos da Unity.</p>
+<p> Una de las ventajas de esta actividad es que, aunque es relativamente simple, te brinda la oportunidad de equivocarte y es un buen reto para comenzar a coordinar la comunicación entre todos los miembros del equipo. Nos permite poder implementar una estructura de trabajo en equipo que nosotros mismos decidimos y ajustamos. Poder tener esa estructura del orden en que se deben hacer las cosas sirve para facilitar el resultado final y también que cada miembro del grupo pueda tener un rol importante en la creación del proyecto. Además, nos pareció interesante ver cómo se pueden crear estructuras complejas utilizando figuras más simples. Nos da la curiosidad de ver si pudiésemos crear un videojuego entero utilizando solamente cubos (de hecho, ¡ya se ha logrado!). El construir algún concepto con cubos es una buena manera de explorar la creatividad y conocer las herramientas que nos da Unity. Tuvimos muchas complicaciones con Unity Version Control, pues creamos el proyecto para trabajar todos en equipo, pero por alguna razón aunque el proyecto estaba conectado a Unity Version Control y todos teniamos los permisos dentro de la organización, sucedía que el proyecto nunca se podía acceder a través de Unity Hub, haciendo imposible la colaboración desde distintos lugares.</p>
+
+<h2>Evidencia de proyectos en la organización</h2>
+
+<image
+  src="org.png"
+  width = 90%
+  height = 90%>
+
+
+  <h2>Evidencia de que en Unity Hub no aparecen los proyectos creados</h2>
+
+<image
+  src="UVC.png"
+  width = 90%
+  height = 90%>
+
+
+
+
 
 <h2> Construcción de paredes
   </h2>
